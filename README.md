@@ -78,8 +78,12 @@ Meanwhile, the total assets contracted by 1%, while liabilities grew by 3%, lead
 - Assets consistently exceed Liabilities in both 2015 and 2016, suggesting positive net worth or equity. However, the declining peak of Assets from 2015 to 2016 might be worth looking into.
 - In December of each year, Assets settle around $260M–$270M, while Liabilities settle around $210M in 2015 and near $200M in 2016. Despite mid-year ups and downs, the ending positions are relatively stable.
 
-#### Asset Turnover
-![](Images/AssetsTurnover.png)
+#### Assets Turnover
+![](Images/AssetTurnover.png)
+- Both years show the Asset Turnover ratio fluctuating within a fairly tight band of 0.02–0.04. This suggests that the company’s efficiency in generating revenue from its assets remains relatively stable.
+- The ratio tends to peak around late spring/early summer (May–June) and again in late summer or early fall (August–October). These recurring spikes may point to seasonal sales cycles, product launches, or other operational factors that temporarily boost revenue relative to assets.
+
+
 
 
 
