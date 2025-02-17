@@ -57,12 +57,29 @@ Meanwhile, the total assets contracted by 1%, while liabilities grew by 3%, lead
 - Operating income follows a similar pattern to revenue but with smaller fluctuations. Operating income is consistently positive, suggesting the company is generating profits from its core business operations. A dip in mid-2016 is observed, which could indicate increased operating expenses or lower sales.
 -  Net Income is more volatile, suggesting additional external factors like taxes, interest expenses, or extraordinary costs affect final profits. The company remains profitable throughout both years, as net income is always positive.
 
-### Profit Margin 
-![](Images/RevenueProfitMargin.png) ![](Images/ROEROA.png)
+### Profit Trends
 
+#### Profit Margin
+![](Images/RevenueProfitMargin.png)
+- Despite starting lower in Q1 2016 compared to Q1 2015, each subsequent quarter shows improvement. By Q4 2016, revenue matches (and slightly exceeds) Q4 2015.
+- 2015’s margins decline steadily through the year. In contrast, 2016 starts off with a lower margin (Q1) but then surges in Q3 to 30%, which is the highest margin across both years. This spike may suggest a combination of cost reductions, pricing strategies, or one-time factors boosting profitability in that quarter.
 
+#### Profitability Ratios
+![](Images/ROEROA.png)
+- Both years show monthly swings, with 2015 reaching an absolute peak of 12% ROE and 2016 peaking at 11%. The early months (January) are consistently the weakest in both years.
+- ROA remains relatively steady between 1% and 3% in both 2015 and 2016, indicating that changes in net income have a more pronounced impact on equity returns than on total assets.
+- Both years feature elevated ROE/ROA around late spring and summer (May through August). This may be because of seasonal influences or other business factors.
 
+### Assets and Liabilities
 
+#### Declining Assets and Growing Liabilities
+![](Images/AssetsLiabs.png)
+
+- Assets consistently exceed Liabilities in both 2015 and 2016, suggesting positive net worth or equity. However, the declining peak of Assets from 2015 to 2016 might be worth looking into.
+- In December of each year, Assets settle around $260M–$270M, while Liabilities settle around $210M in 2015 and near $200M in 2016. Despite mid-year ups and downs, the ending positions are relatively stable.
+
+#### Asset Turnover
+![](Images/AssetsTurnover.png)
 
 
 
