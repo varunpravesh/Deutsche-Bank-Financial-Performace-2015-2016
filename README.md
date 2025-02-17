@@ -1,8 +1,30 @@
-# Deutsche-Bank-Financial-Performace-2015-2016
+# Deutsche Bank Financial Performace 2015-2016
 
 Deutsche Bank AG is a leading German multinational investment bank and financial services company, headquartered in Frankfurt, Germany, with dual listings on the Frankfurt Stock Exchange and the New York Stock Exchange. They provide a comprehensive range of financial services, including investment banking, corporate banking, asset management, and retail banking.
 
 This report provides a detailed trend analysis of Deutsche Bank's financial performance, focusing on revenue growth, profitability trends, and expense dynamics for the years 2015 and 2016.
+
+## Table of Contents
+1. [Overview](#overview)  
+2. [Data Model](#data-model)  
+3. [Insights Deep-Dive](#insights-deep-dive)  
+   - [Revenue and Income Trends](#revenue-and-income-trends)  
+   - [Profit Trends](#profit-trends)  
+     - [Profit Margin](#profit-margin)  
+     - [Profitability Ratios](#profitability-ratios)  
+   - [Assets and Liabilities](#assets-and-liabilities)  
+     - [Declining Assets and Growing Liabilities](#declining-assets-and-growing-liabilities)  
+     - [Assets Turnover](#assets-turnover)  
+   - [Expense Trends](#expense-trends)  
+   - [Dividend Payouts](#dividend-payouts)  
+   - [Correlation](#correlation)  
+4. [Takeaway](#takeaway)  
+   - [Stable Revenue with Modest Growth](#stable-revenue-with-modest-growth)  
+   - [Profitability Fluctuations](#profitability-fluctuations)  
+   - [Asset and Liability Dynamics](#asset-and-liability-dynamics)  
+   - [Expense Patterns](#expense-patterns)  
+   - [Dividend Payout Trends](#dividend-payout-trends)  
+
 
 ## Overview
 From 2015 to 2016, the company’s financials show a picture of modest revenue growth paired with increasing leverage and slightly eroding profitability. Revenue and Operating income both rose by 1%, yet net income and cash flow both declined by 1%. This small dip in net income despite revenue growth indicates rising costs or additional expenses (such as interest or taxes) that are offsetting the incremental gains in revenue.
@@ -129,8 +151,8 @@ Meanwhile, the total assets contracted by 1%, while liabilities grew by 3%, lead
 
 
 <hr style="height: 5px; border: none; background-color: #333;" />
-- See the raw data and my cleaning, analysis, and pivot tables in the [Excel Workbook](Report.xlsx)
 
+See the raw data and my cleaning, analysis, and pivot tables in the [Excel Workbook](Report.xlsx).
 
 
 
